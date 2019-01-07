@@ -6,8 +6,11 @@
 ### Author: Becca Lee
 
 ### Links and Resources
+
+![Build Status](https://www.travis-ci.com/beccalee123/11-http-and-rest.svg?branch=master)
+
 * [repo](https://github.com/beccalee123/11-http-and-rest)
-* [travis](http://xyz.com)
+* [travis](https://www.travis-ci.com/beccalee123/11-http-and-rest)
 
 ### Modules
 #### `modulename.js`
