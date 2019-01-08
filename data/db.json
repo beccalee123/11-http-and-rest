@@ -1,0 +1,25 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Becca",
+      "display_name": "beccalee123",
+      "description": "Kind of a big goofy weirdo"
+    },
+    {
+      "id": 2,
+      "name": "Leo the Dog",
+      "display_name": "Leo",
+      "description": "The best pup"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "category": "meowmers",
+      "name": "Buddy the Cat",
+      "display_name": "BTC",
+      "description": "The floofiest orange boi"
+    }
+  ]
+}
